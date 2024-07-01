@@ -58,3 +58,34 @@ color:white;}
 .main_image>img{
     width:100%;
 }
+
+
+.text{
+    width:30%;
+    height:50px;
+    position:absolute;
+    top:300px;
+    left:60%;
+    font-size:40px;
+    font-style:italic;
+    font-family:Monotype Corsiva;
+    color:#970808;
+
+}
+
+
+
+.info{
+    width:50%;
+    height:100px;
+    position:absolute;
+    top:360px;
+    left:40%;
+    font-size:40px;
+    color:white;
+    text-transform: uppercase;
+    text-align:center;
+    font-weight:bold;
+    font-family: Garamond;
+
+}
