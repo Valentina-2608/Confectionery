@@ -46,3 +46,15 @@ li{display:inline-block;
 
 a{text-decoration:none;
 color:white;}
+
+
+.main_image{width:100%;
+    height:650px;
+    position: absolute;
+    top:100px;
+    left:0px;
+}
+
+.main_image>img{
+    width:100%;
+}
