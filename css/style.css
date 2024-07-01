@@ -175,3 +175,15 @@ color:white;}
     color:white;
     font-family: Garamond;
 }
+
+
+
+.rectangle{
+    width:45%;
+    height:500px;
+    position:absolute;
+    top:905px;
+    left:48%;
+    background-color: #6B2B2B;
+    opacity:0.3;
+}
