@@ -126,3 +126,17 @@ color:white;}
     font-weight:bold;
     font-family: Garamond;
 }
+
+
+.image_2{
+    width:60%;
+    height:500px;
+    position:absolute;
+    top:835px;
+    left:0px;
+   
+}
+
+.image_2>img{
+    width:100%;
+}
