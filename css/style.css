@@ -237,3 +237,20 @@ color:white;}
 }
 
 
+.menu_confectionery{
+    width:48%;
+    height:630px;
+    position:absolute;
+    top:1600px;
+    left:50%;
+    background-color: #181818;
+}
+
+.menu_image{width:44%;
+float:left;
+margin:3%;}
+
+
+.menu_image>img{
+    width:100%;
+}
