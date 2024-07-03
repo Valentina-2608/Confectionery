@@ -287,7 +287,15 @@ margin:3%;}
     border:1px solid white;
     margin-left:33%;
     margin-top:8%;
+    transition: transform 0.5s ease-in-out, background-color 0.5s ease-in-out;
 }
+
+.image_icon:hover{
+    transform: rotate(55deg);
+    background-color: white;
+}
+
+
 
 .image_icon>img{
     width:70%;
@@ -304,3 +312,5 @@ margin:3%;}
     font-size:22px;
     font-family:Monotype Corsiva;
 }
+
+
