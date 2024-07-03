@@ -314,3 +314,49 @@ margin:3%;}
 }
 
 
+.coffee_products{
+    width:100%;
+    height:350px;
+    position:absolute;
+    top:2600px;
+    left:0px;
+}
+
+
+
+.coffee_caption{
+    width:100%;
+    height:50px;
+    position:absolute;
+    top:30px;
+    left:0px;
+    text-align: center;
+    font-family: Monotype Corsiva;
+    font-size:34px;
+    color:#970808;
+   
+}
+
+.coffee_images{
+    width:100%;
+    height:220px;
+    position:absolute;
+    top:100px;
+    left:0px;
+}
+
+
+.coffee_image{
+    width:21%;
+    float:left;
+    margin:2%;
+}
+
+.coffee_image:hover{
+    box-shadow:1px 1px 5px white;
+}
+
+.coffee_image>img{
+    width:100%;
+}
+
